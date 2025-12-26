@@ -1,5 +1,6 @@
 <script setup lang="ts">
 useSeoMeta({
+  title: 'Startseite',
   description: 'Willkommen auf unserer Website - Ihre Beschreibung hier'
 })
 </script>
